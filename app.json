@@ -1,7 +1,7 @@
 {
   "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "description": "The MafiaBot, Most Powerful Telegram Bot but outdated ;p,
+  "logo": "https://te.legra.ph/file/a95cc01983cbdc198b5a3.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/TheRealityGhost/MAFIABOT/",
+  "website": "https://github.com/TheRealityGhost/MAFIABOT/",
+  "success_url": "https://t.me/TheRealityGhost",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -29,22 +29,22 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "MAFIABOT IS ALIVE",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://te.legra.ph/file/9c56d6a03e88f369b079f.mp4",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "LEGEND'S SAY'S TO MAFIABOT",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://te.legra.ph/file/9c56d6a03e88f369b079f.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
