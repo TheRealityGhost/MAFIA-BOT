@@ -1,7 +1,7 @@
 {
   "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
   "description": "The MafiaBot, Most Powerful Telegram Bot but outdated ;p,
-  "logo": "https://te.legra.ph/file/a95cc01983cbdc198b5a3.jpg",
+  "logo": "https://telegra.ph/file/e5339354eb71ce585ac78.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://te.legra.ph/file/9c56d6a03e88f369b079f.mp4",
+      "value": "https://telegra.ph/file/3d13991fe4e22ac1286a2.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": ""
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
