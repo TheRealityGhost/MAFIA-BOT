@@ -2,19 +2,8 @@
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by nobody. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
-
-
-# The owner would not be responsible for any kind of bans due to the bot...
-
-
-<details>
-
-  <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
-
-</details>
+MafiaBot made by nobody. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
+[![MAFIABOT LOGO](https://te.legra.ph/file/a95cc01983cbdc198b5a3.jpg)](https://t.me/TheRealityGhost)
 
 
 # FORK AT YOUR OWN RISK
@@ -28,11 +17,6 @@ MafiaBot made by nobody. Supported by respective hellbot owner @Kraken_The_Badas
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTheRealityGhost%2FMafiaBot&template=https%3A%2F%2Fgithub.com%2FMafiaBotOP%2FMafiaBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-
-</details>
-
-<details>
-
 
 </details>
 
@@ -90,7 +74,6 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
-
 
 </details>
 
