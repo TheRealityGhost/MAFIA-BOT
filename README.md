@@ -2,7 +2,6 @@
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by nobody. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
 [![MAFIABOT LOGO](https://te.legra.ph/file/a95cc01983cbdc198b5a3.jpg)](https://t.me/TheRealityGhost)
 
 
